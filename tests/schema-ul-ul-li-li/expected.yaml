@@ -4,17 +4,14 @@ document:
       type: ul_list
       nodes:
         - kind: block
-          type: list_item
+          type: ul_list
           nodes:
             - kind: block
-              type: ul_list
+              type: list_item
               nodes:
                 - kind: block
-                  type: list_item
+                  type: paragraph
                   nodes:
-                    - kind: block
-                      type: paragraph
-                      nodes:
-                        - kind: text
-                          leaves:
-                            - text: '1st item'
+                    - kind: text
+                      leaves:
+                        - text: '1st item'
