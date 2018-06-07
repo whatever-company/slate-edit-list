@@ -1,5 +1,5 @@
 {
-  "name": "@aha-app/slate-edit-list",
+  "name": "@eliumhq/slate-edit-list",
   "description": "A Slate plugin to handle keyboard events in lists.",
   "version": "0.10.3",
   "license": "Apache-2.0",
